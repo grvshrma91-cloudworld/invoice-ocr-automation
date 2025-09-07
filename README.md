@@ -18,7 +18,8 @@ How It Works:
 5. Result stored in DynamoDB
 
 Architecture Diagram:
-(see image below)
+![Architecture](architecture.drawio.png)
+
 
 Skills Used:
 AWS S3, Lambda, Textract, DynamoDB, IAM Roles
